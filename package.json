@@ -1,0 +1,15 @@
+{
+  "name": "autoform",
+  "version": "0.0.0",
+  "description": "automatic form element generation based on json form-descriptor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Minichino <joe.minichino@gmail.com> (http://github.com/techfort)",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "~3.4.8",
+    "ejs": "~0.8.5"
+  }
+}
